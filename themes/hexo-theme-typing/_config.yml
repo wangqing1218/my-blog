@@ -27,7 +27,7 @@ fb_app_id:
 
 
 # Profile
-nickname: NickName
+nickname: Wang Qing
 description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae [libero pharetra](http://hexo.io) adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam.
 
 # Load fontawesome icons? Also see the links option
@@ -85,7 +85,7 @@ valine:
 # Donate
 donate:
   enable: false
-  github: https://github.com/geekplux
+  github: https://github.com/jovany-wang
   paypal: https://www.paypal.me/geekplux
   bitcoin: 1AVngxh56oLvAzXsEFnzccUohZdHswjC7j
   BTCQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/bitcoin.png
